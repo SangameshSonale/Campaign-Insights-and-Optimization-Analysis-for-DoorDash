@@ -1,5 +1,3 @@
-# Data-Business-Analysis
-# Campaign Insights and Optimization Analysis for DoorDash
 ## Project Description
 
 This project analyzes customer behavior during Campaign 6 for DoorDash. It addresses various business questions, such as customer spending patterns, demographics, and campaign effectiveness.
