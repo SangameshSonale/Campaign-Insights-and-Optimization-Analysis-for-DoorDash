@@ -11,14 +11,14 @@ This is my first project, completed using references and enhanced with my own cr
 Visualizations:
 
 ### Histogram of amount spent:
-![Amount Total Histogram](https://github.com/user-attachments/assets/2c342eed-9a8d-4acd-b0e2-606ed95814c3)
+![Amount Total Histogram](https://github.com/user-attachments/assets/d85e0fc9-ea4b-4d7a-8d04-502ae892df39)
 
 ### Scatter plot: Income vs Total Spent Scatter Plot
-![Income vs Total Spent Scatter Plot](https://github.com/user-attachments/assets/607da2ae-85b5-4cbd-8cfc-894d17ab5be9)
+![Income vs Total Spent Scatter Plot](https://github.com/user-attachments/assets/4b513040-8dab-46b3-9f30-f7e3e2adc3c3)
 
 ### Bar chart: Monthly customer join distribution
 
-![Month Joined Bar Chart](https://github.com/user-attachments/assets/1e254501-2611-4aac-8cf7-670e1ed9ef8e)
+![Month Joined Bar Chart](https://github.com/user-attachments/assets/192b113d-f957-4328-998f-76d91bccb03f)
 
 ### Methods
 
